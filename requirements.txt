@@ -1,0 +1,7 @@
+numpy
+Pillow
+torch
+pytorch3d
+inference_sdk
+supervision[assets]
+rerun-sdk[notebook]
